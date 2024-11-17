@@ -3,8 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Vitor Pires, Concluí o ensino médio no Centro Paula Souza, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACENS. Sou um desenvolvedor apaixonado por tecnologia e a criar soluções inovadoras que transformam a forma como as pessoas interagem com a tecnologia.
-<br/>
-<br/>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&url=https://www.linkedin.com/in/vitor-pires-13a075305//)](https://www.linkedin.com/in/vitor-pires-13a075305/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitorpyres)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://sujeitoprogramador.com/)](mailto:vitor.pires4@gmail.com)
