@@ -1,10 +1,10 @@
-<h1 align="center">Hello, I'm Vitor Pires 👋</h1>
+<h1 align="center">May the code be with you 👋 I'm Vitor Pires</h1>
 
 
 
 <p align="center">
 
-  <strong>FullStack Developer</strong> • <strong>Systems Analysis and Development Student</strong>
+  <strong>FullStack Developer</strong> • <strong>Building the future, one line of code at a time</strong>
 
 </p>
 
@@ -34,13 +34,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-pires-13a075305/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
   </a>
   <a href="https://instagram.com/vitorpyres" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-00AB33?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28">
   </a>
   <a href="mailto:vitor.pires4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-vitor.pires4@gmail.com-00AB33?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-vitor.pires4@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28">
   </a>
 </p>
 
