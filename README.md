@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <em>Desenvolvedor FullStack • Estudante de Análise e Desenvolvimento de Sistemas</em>
+  <strong>FullStack Developer</strong> • <strong>Systems Analysis and Development Student</strong>
 
 </p>
 
@@ -33,25 +33,15 @@
 
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/vitor-pires-13a075305/">
-
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white">
-
+  <a href="https://www.linkedin.com/in/vitor-pires-13a075305/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <a href="https://instagram.com/vitorpyres">
-
-    <img src="https://img.shields.io/badge/-Instagram-00AB33?style=flat-square&logo=instagram&logoColor=white">
-
+  <a href="https://instagram.com/vitorpyres" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-00AB33?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
-  <a href="mailto:vitor.pires4@gmail.com">
-
-    <img src="https://img.shields.io/badge/-vitor.pires4@gmail.com-00AB33?style=flat-square&logo=gmail&logoColor=white">
-
+  <a href="mailto:vitor.pires4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-vitor.pires4@gmail.com-00AB33?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
 </p>
 
 
