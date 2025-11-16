@@ -1,123 +1,231 @@
-# 👩🏻‍💻 Vitor Pires
+<h1 align="center">Hello, I'm Vitor Pires 👋</h1>
 
-**`Desenvolvedor FullStack`**
 
-Me chamo Vitor Pires, Concluí o ensino médio no Centro Paula Souza, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FACENS. Sou um desenvolvedor apaixonado por tecnologia e a criar soluções inovadoras que transformam a forma como as pessoas interagem com a tecnologia.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&url=https://www.linkedin.com/in/vitor-pires-13a075305//)](https://www.linkedin.com/in/vitor-pires-13a075305/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitorpyres)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://sujeitoprogramador.com/)](mailto:vitor.pires4@gmail.com)
+<p align="center">
+
+  <em>Desenvolvedor FullStack • Estudante de Análise e Desenvolvimento de Sistemas</em>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlwMnNjdzA2cTRtbXcwMXJsZzIyeWFianh1dXkwazZvbGRoZTBteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="400px" alt="commit gif looping" />
+
+</p>
+
+
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+
+
+<p align="center">
+
+  Sou um desenvolvedor apaixonado por tecnologia e criar soluções inovadoras que transformam a forma como as pessoas interagem com a tecnologia.  
+
+  Aqui você encontrará código, criatividade e um compromisso com a excelência.
+
+</p>
+
+
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/vitor-pires-13a075305/">
+
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=linkedin&logoColor=white">
+
+  </a>
+
+  <a href="https://instagram.com/vitorpyres">
+
+    <img src="https://img.shields.io/badge/-Instagram-00AB33?style=flat-square&logo=instagram&logoColor=white">
+
+  </a>
+
+  <a href="mailto:vitor.pires4@gmail.com">
+
+    <img src="https://img.shields.io/badge/-vitor.pires4@gmail.com-00AB33?style=flat-square&logo=gmail&logoColor=white">
+
+  </a>
+
+</p>
+
+
+
+---
+
+
+
+### 🧠 About Me
+
+
+
+- 🎓 Technical in Informatics by Centro Paula Souza
+
+- 📚 Currently studying Systems Analysis and Development at FACENS
+
+- 💻 FullStack Developer passionate about creating innovative solutions
+
+- ✨ Always seeking to learn new technologies and improve my skills
+
+
+
+---
+
+
+
+### 💻 Languages and Technologies
+
+<p align="center">
 
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="Node"
     title="Node" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 <img 
-    align="left" 
+    alt="Fastify"
+    title="Fastify" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg"
+/>
+<img 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img
-    align="left" 
     alt="Flask" 
     title="Flask"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
 />
 <img 
-    align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
-    align="left" 
     alt="Springs" 
     title="Springs"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
 <img
-    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img
+    alt="SQLite" 
+    title="SQLite"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+<img
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br/>
-<br/>
 
-### 📊 Estatísticas
+</p>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=piresvitor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=piresvitor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
+---
+
+
+
+### 📊 Tech Stack Highlights
+
+
+
+<p align="center">
+
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piresvitor&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+
+</p>
+
+
+
+---
+
+
+
+### 🟩 Latest Commit Energy
+
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=piresvitor&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+
+</p>
+
+
+
+<p align="center">
+
+  <em>Keep building. One commit at a time.</em> 🟩
 
 </p>
