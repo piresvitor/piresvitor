@@ -3,9 +3,7 @@
 
 
 <p align="center">
-
   <strong>FullStack Developer</strong> • <strong>Building the future, one line of code at a time</strong>
-
 </p>
 
 
