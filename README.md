@@ -1,4 +1,4 @@
-<h1 align="center">May the code be with you 👋 I'm Vitor Pires</h1>
+<h1 align="center">May the code be with you. I'm Vitor Pires</h1>
 
 
 
